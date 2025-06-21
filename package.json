@@ -34,12 +34,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhengpengxin/modern-image-extensions.git"
+    "url": "git+https://github.com/pengxinseo/modern-image-extensions.git"
   },
   "bugs": {
-    "url": "https://github.com/zhengpengxin/modern-image-extensions/issues"
+    "url": "https://github.com/pengxinseo/modern-image-extensions/issues"
   },
-  "homepage": "https://github.com/zhengpengxin/modern-image-extensions#readme",
+  "homepage": "https://github.com/pengxinseo/modern-image-extensions#readme",
   "funding": {
     "type": "website",
     "url": "https://tiepolo.app"
