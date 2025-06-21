@@ -1,0 +1,47 @@
+{
+  "name": "modern-image-extensions",
+  "version": "1.0.0",
+  "description": "Modern image file extension list, including bitmap and vector formats",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "extensions",
+    "images",
+    "pictures",
+    "photos",
+    "file-formats",
+    "array",
+    "json",
+    "list",
+    "modern",
+    "formats"
+  ],
+  "author": "Zhengpengxin (https://tiepolo.app)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.0.0",
+    "jest": "^29.0.0",
+    "ts-jest": "^29.4.0",
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengpengxin/modern-image-extensions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhengpengxin/modern-image-extensions/issues"
+  },
+  "homepage": "https://github.com/zhengpengxin/modern-image-extensions#readme",
+  "funding": {
+    "type": "website",
+    "url": "https://tiepolo.app"
+  }
+}
